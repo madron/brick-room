@@ -64,6 +64,7 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -439,6 +440,14 @@
     [
       "44887b13-1b09-4b91-8a33-1a6d3b3a74eb",
       ""
+    ],
+    [
+      "cfca5011-b7b8-4734-bb5d-ea51397574ab",
+      "power-5-lm2596"
+    ],
+    [
+      "f81f586d-daa2-453f-88dc-7ffde0a05bb3",
+      "regulator-3.3"
     ]
   ],
   "text_variables": {}
