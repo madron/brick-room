@@ -1,0 +1,19 @@
+*.kicad_prl
+*.rules
+# Backup
+*.kicad_pcb-bak
+*-backups
+# Cache
+fp-info-cache
+*-cache.lib
+# Rescue
+*-rescue.dcm
+*-rescue.lib
+# Spectra session
+*.dsn
+*.ses
+# Zip files
+*.zip
+# NopSCADlib
+openscad.echo
+openscad.log
